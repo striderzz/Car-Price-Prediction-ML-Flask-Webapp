@@ -1,5 +1,8 @@
 # 🚗 Car Price Prediction Web Application  
 
+![Screenshot (1769)](https://github.com/user-attachments/assets/2a6ade0a-d72b-4ad0-ac7b-156acae03ba3)
+
+
 ## Overview  
 This project is a machine learning-powered web application that predicts car prices based on user-provided features such as mileage, fuel type, transmission type, and vehicle age. The solution uses **Linear Regression** to deliver predictions with an **R² score of 0.85** and is deployed via a **Flask** web application.  
 
